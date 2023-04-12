@@ -1,0 +1,42 @@
+.bloco{
+    height: 60px;
+    width: 300px;
+    padding: 0px 10px 20px 10px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#bloco-1{
+    background-color: #E18F39;
+    border: 5px solid #EDA751;
+}
+
+#bloco-2{
+    background-color:#3C7F4E ;
+    border: 5px solid #51A676;
+}
+
+#bloco-3{
+    background-color: #1E4633;
+    border: 5px dashed #64CD7B;
+}
+
+#bloco-4{
+    background-color: #DC3F2B;
+    border: 5px dashed #E98274;
+}
+
+main{
+    font-family: Helvetica;
+}
+
+p{
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+h1{
+    margin: 0px;
+    margin-top: 15px;
+}
+
